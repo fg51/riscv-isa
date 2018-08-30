@@ -1,6 +1,6 @@
 [package]
 name = "riscv-isa"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["kflange <zknsftk1msrk@gmail.com>"]
 
 [dependencies]

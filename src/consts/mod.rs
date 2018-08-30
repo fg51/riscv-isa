@@ -1,0 +1,12 @@
+pub const MOV: u32 = 0;
+pub const CMP: u32 = 1;
+pub const ADDI: u32 = 2;
+pub const ALU: u32 = 3;
+pub const JMP: u32 = 4;
+pub const JPR: u32 = 5;
+pub const JCC: u32 = 6;
+pub const LD: u32 = 7;
+pub const ST: u32 = 8;
+pub const NOP: u32 = 9;
+pub const SPC: u32 = 10;
+pub const EXP: u32 = 11;
